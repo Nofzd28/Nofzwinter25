@@ -6,9 +6,23 @@
     
         <h1>how to be a chef</h1>
 	
-	</head>
+    </head>
 
     <body>
+
+        <section>
+            <header>
+
+            <h2>chefs main ideas</h2>
+
+            <p>if being a chef is your thing you can get better at it and you can work at a good resturant and
+                make lots of money.The more you learn to cook the better you get and the more money you can make.
+            </p>
+
+
+
+        </header>
+        </section>
         <section>
             <div>
 
@@ -23,4 +37,14 @@
     </main>
 </div>
 
+        </section>
+        <section>
+            <footer>
+
+                <h2>being a chef is fun</h2>
+
+                <p>being a chef is easy which can make it very fun already but besides that you can cook 
+                    with many varietys of foods of your chioce and pretty much do waterever you want with the food
+                </p>
+            </footer>
         </section>
