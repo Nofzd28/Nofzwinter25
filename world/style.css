@@ -1,6 +1,14 @@
 *
-   Use the glasses' classes to apply filters to the glass images
-*/
+
+.even{
+    filter: brightness(75%);
+
+    
+}
+
+.odd{
+    filter:hue-rotate(200deg);
+}
 
 
 
