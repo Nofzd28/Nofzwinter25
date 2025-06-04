@@ -1,0 +1,53 @@
+
+
+
+.speaker-card {
+    border-radius: 15px;
+    transition: transform 0.2s ease;
+  }
+  
+  .speaker-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .speaker-img {
+    height: 250px;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  
+  
+  .section-heading {
+    margin-top: 40px;
+  }
+
+  .hero {
+    background: url('https://images.unsplash.com/photo-1603570419986-d2048a7bcd8b') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 120px 0;
+    text-align: center;}
+
+    .highlight-box {
+        background-color: #f8f9fa;
+        padding: 30px 20px;
+        border-radius: 15px;
+        text-align: center;
+        margin-top: 30px;
+      }
+
+      .section-heading {
+        margin-top: 40px;
+      }
+      .map-img, .venue-img, .hotel-img {
+        border-radius: 15px;
+        margin-bottom: 20px;
+      }
+
+      .section-heading {
+        margin-top: 40px;
+      }
+      .img-round {
+        border-radius: 15px;
+      }
